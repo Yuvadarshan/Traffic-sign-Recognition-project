@@ -1,0 +1,8 @@
+0 Give Way
+1 No Heavy Vehicles
+2 No Pedestrians
+3 No Vehicle in both Direction
+4 Turn Right
+5 Speed Breaker
+6 Stop
+7 No Parking
